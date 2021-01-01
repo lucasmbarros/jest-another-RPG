@@ -5,13 +5,16 @@
 
   ## Table of Contents
   * [Installation](#installation)
-  * [Usage](#Usage)
+  * [Usage](#usage)
   * [Credits](#credits)
   * [License](#license)
   * [Questions](#questions)
 
   ## Installation
-  PENDING
+  
+  Install Node.js
+  
+    npm install inquirer
 
   ## Usage
   RPG game to showcase OOP and TDD usage.
